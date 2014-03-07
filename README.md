@@ -232,4 +232,3 @@ grunt.initConfig({
   },
 })
 ```
-
